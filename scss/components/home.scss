@@ -1,15 +1,13 @@
-
+//Divido la pagina a la mitad
 .half{
     width: 50%;
     display: flex;
 }
 
+//La imagen ocupara el 100% del container y no sobrepasara el alto de la pantalla
 #profile_image{
     width: 100%;
     max-height: 100vh;
-}
-#test_logo{
-
 }
 
 .half_text{
